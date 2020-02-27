@@ -1,3 +1,1 @@
-# COSC224
-For Labs
-Labs
+A repository of things i have worked on
